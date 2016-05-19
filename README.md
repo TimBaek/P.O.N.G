@@ -1,5 +1,5 @@
 # P.O.N.G
-Interactive Single or Multi Player game based on keyboard inputs
+Interactive Object-Oriented Single or Multi Player Game Based on Keyboard Inputs
 
 ## Tools ##
 - IDE: Ready to Program Java
